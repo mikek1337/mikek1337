@@ -4,7 +4,7 @@
 
 **Strong Back-End Development** skills with [Node.js](https://nodejs.org/en) and [NestJS](https://nestjs.com/) for building scalable and robust APIs. Experienced in working with various databases including PostgreSQL, MySQL, and MongoDB to ensure efficient data storage and retrieval.
 
-
+<a href="https://app.daily.dev/mike1337"><img src="https://api.daily.dev/devcards/v2/K6MwoIhpEguKrmNqMKJUZ.png?type=default&r=1jx" width="356" alt="Mikias Kegnlyew's Dev Card"/></a>
 
 ### Additional Skills:
 
